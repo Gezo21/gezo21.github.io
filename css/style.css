@@ -29,6 +29,31 @@ p{
   font-size:20px;
 }
 
+.first-sect {
+  background-image: url("http://1.bp.blogspot.com/-g6DbQjol0iE/WLmvj8zKrqI/AAAAAAAAAqw/mFfB-XOoLWY-rACWmJ7cIh1YxEPkPKSzACK4B/s1600/marqool.png");
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+  background-size: 100%;
+  background-blend-mode: multiply;
+}
+
+.second-sect {
+  background-image: url("http://2.bp.blogspot.com/-V5jzg-ts3rQ/WLmyU3g_7bI/AAAAAAAAAq4/UJW8WH0tXcMyp6hBdq0B6VnJIvqy3GT_gCK4B/s1600/code.jpg");
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+  background-size: 100% 100%;
+  background-blend-mode: multiply;
+}
+
+
+.third-sect {
+  background-image: url("http://1.bp.blogspot.com/-aqwnYqmSFIU/WLmuM9PSHII/AAAAAAAAAqo/yNThR9kqHmURhkznPq-X5YKDxQyY-u1ZACK4B/s1600/piano%2Bmarco.JPG");
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+  background-size: 100%;
+  background-blend-mode: overlay;
+}
+
 .port-img {
   margin:10%;
   width:80%;
